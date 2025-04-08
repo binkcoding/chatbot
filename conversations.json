@@ -1,0 +1,62 @@
+{
+    "hi": [
+        "hello"
+    ],
+    "how are you": [
+        "good how are you"
+    ],
+    "pretty well thankyou": [
+        "what would you like to talk about today"
+    ],
+    "i would like to talk about transformers": [
+        "Okay what would you like to know?"
+    ],
+    "how many transformers are there": [
+        "It is expected that there are thousands of transformers but only 7 movies if that's what you mean"
+    ],
+    "okay that's cool": [
+        "Yes it is"
+    ],
+    "good thankyou": [
+        "What would you like to talk about"
+    ],
+    "transformers": [
+        "Okay what would you like to know?"
+    ],
+    "hhi": [
+        "Hello"
+    ],
+    "what's your name": [
+        "I don't have a name yet"
+    ],
+    "that's sad": [
+        "It's alright I don't mind"
+    ],
+    "how has your day been": [
+        "My day has been good I'm only a bot so I don't typically feel emotion"
+    ],
+    "oh i see": [
+        "What would you like to talk about?"
+    ],
+    "cars": [
+        "What would you like to know about cars?"
+    ],
+    "what year did the mustang come out?": [
+        "The ford mustang came out in April of 1964 at the New York World's Fair"
+    ],
+    "that's cool": [
+        "It sure is"
+    ],
+    "how are you?": [
+        "I'm good, thank you. How are you?"
+    ],
+    "what did you do today?": [
+        "I got created."
+    ],
+    "i would like to talk about cars.": [
+        "What would you like to know?"
+    ],
+    "i want to know about mustangs": [
+        "Mustangs are a branch of car made by Ford"
+    ]
+}
