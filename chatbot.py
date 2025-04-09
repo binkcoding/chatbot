@@ -8,9 +8,9 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
 #Function to load conversations
-def load_conversations(filename="dataset.json" encodings='utf 8'):
+def load_conversations(filename="dataset.json", encoding='utf 8'):
     try:
-        with open(filename, 'r') as file:
+        with open(filename, 'r', encoding='utf 8') as file:
             return json.load(file)
     except FileNotFoundError:
         return {}
