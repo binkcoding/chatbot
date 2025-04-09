@@ -1,9 +1,10 @@
 import _json
 import json
 import random
+import requests
 from operator import index
 from urllib.parse import uses_relative
-
+from bs4 import BeautifulSoup
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 

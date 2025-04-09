@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3e169bb-8662-4890-8edb-e53de95bb6e0" name="Changes" comment="Bot now learns">
+    <list default="true" id="c3e169bb-8662-4890-8edb-e53de95bb6e0" name="Changes" comment="Bot now writes to correct file and remembers responses from user input">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chatbot.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conversations.json" beforeDir="false" afterPath="$PROJECT_DIR$/conversations.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/dataset.json" beforeDir="false" afterPath="$PROJECT_DIR$/dataset.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,12 +85,21 @@
       <option name="project" value="LOCAL" />
       <updated>1744165028588</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Bot now writes to correct file and remembers responses from user input">
+      <option name="closed" value="true" />
+      <created>1744171250791</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1744171250791</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated chatbot to load responses from a new dataset" />
     <MESSAGE value="Bot now learns" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bot now learns" />
+    <MESSAGE value="Bot now writes to correct file and remembers responses from user input" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bot now writes to correct file and remembers responses from user input" />
   </component>
 </project>

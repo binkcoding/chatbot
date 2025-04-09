@@ -621,18 +621,6 @@
             "context_set": ""
         },
         {
-            "tag": "random",
-            "patterns": [
-                "I love you",
-                "Will you marry me",
-                "Do you love me"
-            ],
-            "responses": [
-                "I am not program for this, please ask appropriate query"
-            ],
-            "context_set": ""
-        },
-        {
             "tag": "vacation",
             "patterns": [
                 "holidays",
@@ -746,6 +734,33 @@
             ],
             "responses": [
                 "What would you like to know about the Ford Mustang"
+            ]
+        },
+        {
+            "tag": "_i_ _l_o_v_e_ _y_o_u_",
+            "patterns": [
+                "i love you"
+            ],
+            "responses": [
+                "I love you too"
+            ]
+        },
+        {
+            "tag": "_d_o_ _y_o_u_ _l_o_v_e_ _m_e_?_",
+            "patterns": [
+                "do you love me?"
+            ],
+            "responses": [
+                "Of course I love you"
+            ]
+        },
+        {
+            "tag": "_w_o_u_l_d_ _y_o_u_ _m_a_r_r_y_ _m_e_?_",
+            "patterns": [
+                "would you marry me?"
+            ],
+            "responses": [
+                "I will eventually yes :)"
             ]
         }
     ]
