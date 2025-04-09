@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3e169bb-8662-4890-8edb-e53de95bb6e0" name="Changes" comment="">
+    <list default="true" id="c3e169bb-8662-4890-8edb-e53de95bb6e0" name="Changes" comment="Updated chatbot to load responses from a new dataset">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chatbot.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/conversations.json" beforeDir="false" afterPath="$PROJECT_DIR$/conversations.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dataset.json" beforeDir="false" afterPath="$PROJECT_DIR$/dataset.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +70,19 @@
       <option name="presentableId" value="Default" />
       <updated>1744095392169</updated>
     </task>
+    <task id="LOCAL-00001" summary="Updated chatbot to load responses from a new dataset">
+      <option name="closed" value="true" />
+      <created>1744160838280</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1744160838280</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated chatbot to load responses from a new dataset" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated chatbot to load responses from a new dataset" />
   </component>
 </project>
