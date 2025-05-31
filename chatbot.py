@@ -8,6 +8,14 @@ from bs4 import BeautifulSoup
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 
+def fetch_web_data(query):
+    search_url = f"https://www.google.com/search?q={query}"
+    headers = {
+        "User-Agent" : "Mozilla/5.0"
+    }
+    res
+    #Current crashout point
+
 def update_vectorizer():
     global all_patterns, tfidf_vectorizer
 

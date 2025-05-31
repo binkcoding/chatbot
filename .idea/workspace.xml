@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c3e169bb-8662-4890-8edb-e53de95bb6e0" name="Changes" comment="Bot now writes to correct file and remembers responses from user input">
+    <list default="true" id="c3e169bb-8662-4890-8edb-e53de95bb6e0" name="Changes" comment="Getting code ready for being able to respond using searches via internet">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chatbot.py" beforeDir="false" afterPath="$PROJECT_DIR$/chatbot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dataset.json" beforeDir="false" afterPath="$PROJECT_DIR$/dataset.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,13 +92,22 @@
       <option name="project" value="LOCAL" />
       <updated>1744171250791</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Getting code ready for being able to respond using searches via internet">
+      <option name="closed" value="true" />
+      <created>1744172756144</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1744172756144</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Updated chatbot to load responses from a new dataset" />
     <MESSAGE value="Bot now learns" />
     <MESSAGE value="Bot now writes to correct file and remembers responses from user input" />
-    <option name="LAST_COMMIT_MESSAGE" value="Bot now writes to correct file and remembers responses from user input" />
+    <MESSAGE value="Getting code ready for being able to respond using searches via internet" />
+    <option name="LAST_COMMIT_MESSAGE" value="Getting code ready for being able to respond using searches via internet" />
   </component>
 </project>
